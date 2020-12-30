@@ -21,7 +21,9 @@ h1{
     align-content: space-evenly ; 
     margin: 0 auto;
 }
-
+body{
+    background-color: bisque;
+}
 #generate-sudoku{
     margin:auto;
     width:200px;
